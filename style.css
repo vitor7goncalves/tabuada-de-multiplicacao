@@ -1,0 +1,24 @@
+body{
+background-color: rgb(70, 142, 236);
+font: normal 15pt Arial;
+text-align: center;
+}
+header{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+section{
+   background-color: silver;
+   border-radius: 1rem;
+   width: 40rem;
+   padding: 3rem;
+   margin: auto;
+   box-shadow: .5rem .5rem 1rem rgba(0, 0, 0, .4);
+}
+select{
+    width: 10rem;
+}
+footer{
+    text-align: center;
+}
